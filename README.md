@@ -1,5 +1,11 @@
 # trivy-notify
 
+# Install
+
+```shell script
+deno install https://denopkg.com/beshkenadze/trivy-notify/mod.ts
+```
+
 # Usage
 
 ```shell script
