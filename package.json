@@ -1,0 +1,13 @@
+{
+  "name": "trivy-notify",
+  "version": "0.1",
+  "description": "The notitycation cli util for Trivy",
+  "main": "index.ts",
+  "repository": "https://github.com/beshkenadze/trivy-notify",
+  "author": "Aleksandr Beshkenadze <gmail@beshkenadze.com>>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+
+  }
+}
